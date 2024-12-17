@@ -3,7 +3,7 @@
 This is a reproduction repo: 
 - Paper: 2023-EMNLP-Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration
 - Original repo: https://github.com/wuyiquan/PLJP
-- My contribution:
+- Contribution:
   - Completed the missing code, including predictive module and retrieval module;
   - Fix bugs, including prompt inconsistency and LLM output parsing;
   - Extra exploration, including CoT prompt optimization and Qwen-2.5-32B experiments;
